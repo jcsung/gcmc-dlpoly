@@ -1,3 +1,10 @@
+*.xyz
+*.dcd
+HISTORY
+moviemaker
+*.out
+*.exe
+
 # Compiled Object files
 *.slo
 *.lo
