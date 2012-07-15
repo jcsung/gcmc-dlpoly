@@ -19,13 +19,19 @@ To view the movie, load the XYZ frame with the highest number of atoms
 load traj.dcd into that frame.
 
 Requires the following:
+
 -hisxyz.f from DL_POLY
+
 -catdcd
 
 File input has the following structure:
-# of frames in each HISTORY file (must be the same for all HISTORY files)
+
+Number of frames in each HISTORY file (must be the same for all HISTORY files)
+
 Executable name for compiled form of hisxyz.f (make sure it is in your path)
+
 r_min
+
 r_max
 
 -----
